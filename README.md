@@ -27,9 +27,13 @@ This **Bikers World Sales Dashboard** is an interactive Excel-based analytics da
 
 ## Sample Insights 🔍
 - **United States** has the highest revenue contribution.
+  ![**United States**](Bike_Sales_Image/Revenue_Contribution.png)
 - **Adults (35-64 years)** form the largest customer base (61%).
+  ![**Adults (35-64 years)** ](Bike_Sales_Image/Age_Grouping.png)
 - **Road and Mountain Bikes** dominate product category sales.
+  ![**Road and Mountain Bikes**](Bike_Sales_Image/Product_category.png)
 - **Profits peak in December**, likely due to holiday sales.
+  ![**Profits peak in December**](Bike_Sales_Image/Profit_Peak.png)
 
 ## Future Enhancements 🚧
 - Integration with **Power BI/Tableau** for advanced analytics.
