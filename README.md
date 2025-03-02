@@ -1,7 +1,8 @@
 # Bikers World Sales Dashboard 📊🏍️
 
 ## Overview
-This **Bikers World Sales Dashboard** is an interactive Excel-based analytics dashboard that provides insights into sales performance, customer demographics, and product trends. The dashboard visualizes key metrics such as **monthly profits, gender distribution, age grouping, top products, product category sales, and country-wise sales**.
+This **Bikers World Sales Dashboard** is an interactive Excel-based analytics dashboard that provides insights into sales performance, customer demographics, and product trends. The dashboard visualizes key metrics such as **monthly profits, gender distribution, age grouping, top products, product category sales, and country-wise sales**.  
+[**Dashboard**](Bike_Sales.png)
 
 ## Features 🚀
 - **Monthly Profit Tracking** 📈: Line chart showing the monthly trend of profit.
